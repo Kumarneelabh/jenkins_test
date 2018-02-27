@@ -24,3 +24,4 @@ node {
         archiveArtifacts 'api-gateway/target/*.jar'
    }
 }
+1
